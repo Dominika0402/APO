@@ -1,0 +1,49 @@
+div{
+	text-align:center;
+    margin-bottom: 50px;
+}
+
+h1{
+	font-size: 40px;
+	text-align: center;
+	color: white;
+}
+
+body {
+    background-color: #06554F;
+    vertical-align: middle;
+}
+
+#lines{
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 30%;
+    width: 50%;
+    margin: -15% 0 0 -25%;
+}
+
+a{
+	color: white;
+}
+
+table{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 30%;
+    width: 50%;
+    margin: -15% 0 0 -25%;
+    color: black;
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-color: black;
+    background-color: white;
+    text-align: center;
+}
+
+th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-color: black;
+}

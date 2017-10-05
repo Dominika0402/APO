@@ -1,0 +1,33 @@
+button{
+    height:100px; 
+    width:300px;
+    font-size: 20px; 
+  	border-radius: 10px;
+  	background-color: #7B908E;
+
+}
+
+body {
+    background-color: #06554F;
+    vertical-align: middle;
+}
+
+div{
+    text-align:center;
+    margin-bottom: 50px;
+}
+
+h1{
+	font-size: 40px;
+	text-align: center;
+	color: white;
+}
+
+#buttons{
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 30%;
+    width: 50%;
+    margin: -15% 0 0 -25%;
+}
